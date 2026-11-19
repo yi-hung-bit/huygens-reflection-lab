@@ -1,0 +1,6 @@
+{
+  "name": "惠更斯原理與反射定律互動實驗室",
+  "description": "互動式高中物理模擬實驗室：透過惠更斯次波包絡面與幾何全等證明，直觀理解平面波反射定律（入射角等於反射角）。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
